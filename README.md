@@ -1,7 +1,5 @@
-Radeon-RX-5700-XT.png" alt="PNG" height="800px" />
-
 <p align="center">
-        <img src="res/amdRadeon.png" alt="PNG" height="800px" />
+        <img src="res/amdRadeon.png" alt="PNG" height="700px" />
 </p>
 
 
