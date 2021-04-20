@@ -14,4 +14,5 @@ Load the file **undervolt.xml** from the AMD Radeon panel, in the performance ta
 Occasionally, the configuration settings are reset, it is up to the software, in that case, reload the file.
 
 ### Changelog
+- 21.3.1
 - 20.11.2
