@@ -3,7 +3,7 @@
 </p>
 
 
-Settings valid for **AMD Radeon RX 5700 XT** GPU, with [Adrenalin 2020 Edition v**20.11.2**](https://drivers.amd.com/drivers/radeon-software-adrenalin-2020-20.11.2-win10-64bit-nov18.exe) drivers.
+Settings valid for **AMD Radeon RX 5700 XT** GPU, with v22.5.1 drivers.
 
 The frequency is limited to 1906Mhz with a maximum voltage of 996mV, the temperature and performance curve of the blower type heatsink is adjusted, objective, better and more stable performance, and reduced temperature and sound of the GPU fan.
 
@@ -15,5 +15,5 @@ Occasionally, the configuration settings are reset, it is up to the software, in
 
 ### Changelog
 - 21.3.1
-- 20.11.2
-- 22.5.1
+- [20.11.2](https://drivers.amd.com/drivers/radeon-software-adrenalin-2020-20.11.2-win10-64bit-nov18.exe)
+- [22.5.1](https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-22.5.1-win10-win11-may10.exe)
