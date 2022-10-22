@@ -16,3 +16,4 @@ Occasionally, the configuration settings are reset, it is up to the software, in
 ### Changelog
 - 21.3.1
 - 20.11.2
+- 22.5.1
