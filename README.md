@@ -3,7 +3,7 @@
 </p>
 
 
-Settings valid for **AMD Radeon RX 5700 XT** GPU, with v22.5.1 drivers.
+Settings valid for **AMD Radeon RX 5700 XT** GPU, with v23.7.1 drivers.
 
 The frequency is limited to 1906Mhz with a maximum voltage of 996mV, the temperature and performance curve of the blower type heatsink is adjusted, objective, better and more stable performance, and reduced temperature and sound of the GPU fan.
 
