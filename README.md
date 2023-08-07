@@ -12,8 +12,3 @@ The frequency is limited to 1906Mhz with a maximum voltage of 996mV, the tempera
 Load the file **undervolt.xml** from the AMD Radeon panel, in the performance tab, in manual mode and restart. 
 
 Occasionally, the configuration settings are reset, it is up to the software, in that case, reload the file.
-
-### Changelog
-- 21.3.1
-- [20.11.2](https://drivers.amd.com/drivers/radeon-software-adrenalin-2020-20.11.2-win10-64bit-nov18.exe)
-- [22.5.1](https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-22.5.1-win10-win11-may10.exe)
