@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SYSTEM>
+    <CPU>
+        <FEATURE ID="100" Enabled="1">
+            <STATES>
+                <STATE ID="0" Enabled="False" Value="0"/>
+            </STATES>
+        </FEATURE>
+        <FEATURE ID="0" Enabled="True">
+            <STATES>
+                <STATE ID="0" Enabled="False" Value="0"/>
+            </STATES>
+        </FEATURE>
+    </CPU>
     <GPU DevID="731F" RevID="C1">
         <PPW Value="1"/>
         <FEATURE ID="100" Enabled="0">
@@ -26,10 +38,10 @@
         <FEATURE ID="4" Enabled="True">
             <STATES>
                 <STATE ID="0" Enabled="False" Value="800"/>
-                <STATE ID="1" Enabled="False" Value="1352"/>
-                <STATE ID="2" Enabled="False" Value="1905"/>
+                <STATE ID="1" Enabled="False" Value="1353"/>
+                <STATE ID="2" Enabled="False" Value="1906"/>
                 <STATE ID="3" Enabled="False" Value="800"/>
-                <STATE ID="4" Enabled="False" Value="1905"/>
+                <STATE ID="4" Enabled="False" Value="1906"/>
             </STATES>
         </FEATURE>
         <FEATURE ID="12" Enabled="False">
@@ -73,9 +85,9 @@
                 <STATE ID="2" Enabled="False" Value="45"/>
                 <STATE ID="3" Enabled="False" Value="25"/>
                 <STATE ID="4" Enabled="False" Value="55"/>
-                <STATE ID="5" Enabled="False" Value="40"/>
+                <STATE ID="5" Enabled="False" Value="35"/>
                 <STATE ID="6" Enabled="False" Value="65"/>
-                <STATE ID="7" Enabled="False" Value="55"/>
+                <STATE ID="7" Enabled="False" Value="50"/>
                 <STATE ID="8" Enabled="False" Value="80"/>
                 <STATE ID="9" Enabled="False" Value="90"/>
                 <STATE ID="10" Enabled="False" Value="0"/>
