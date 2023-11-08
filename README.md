@@ -1,4 +1,5 @@
-![imagen](https://github.com/AzagraMac/undervoltAMD5700XT/assets/571796/c9a9557a-c22a-460a-a3f3-d710db661935)
+
+![imagen](https://github.com/AzagraMac/undervoltAMD5700XT/assets/571796/6702ceca-b998-4303-87ce-cc1c99c74f3a)
 
 
 Settings valid for **AMD Radeon RX 5700 XT** GPU, with v23.8.1 drivers.
